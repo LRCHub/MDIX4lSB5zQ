@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "KAMIKAZE",
+  "base_artist": "Dannie May",
+  "createdAt": "2025-12-28T08:33:04.841553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kamikaze",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Kamikaze_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kamikaze",
+      "artist": "Lil Mosey",
+      "has_synced": false,
+      "path": "select/02_Kamikaze_Lil_Mosey.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kamikaze",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/03_Kamikaze_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Taste in Men (Alpinestars Kamikaze Skimix)",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/04_Taste_in_Men_(Alpinestars_Kamikaze_Skimix)_Placebo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kamikaze 108 - Toridoshi Mix",
+      "artist": "Teriyaki Boyz",
+      "has_synced": false,
+      "path": "select/05_Kamikaze_108_-_Toridoshi_Mix_Teriyaki_Boyz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KAMIKAZE 108 (酉年 mix)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": false,
+      "path": "select/06_KAMIKAZE_108_(酉年_mix)_Teriyaki_Boyz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kamikaze Cappa - Dedicated to Robert Cappa Who Died in Indochina 1954",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/07_Kamikaze_Cappa_-_Dedicated_to_Robert_Cappa_Who_Died_in_Indochina_1954_Falco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Trill (feat. Kamikaze)",
+      "artist": "David Banner",
+      "has_synced": false,
+      "path": "select/08_Trill_(feat._Kamikaze)_David_Banner.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "X-Ed (feat. Kamikaze)",
+      "artist": "David Banner",
+      "has_synced": true,
+      "path": "select/09_X-Ed_(feat._Kamikaze)_David_Banner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kamikaze",
+      "artist": "Thompson Twins",
+      "has_synced": true,
+      "path": "select/10_Kamikaze_Thompson_Twins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kamikaze",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/11_Kamikaze_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kamikaze",
+      "artist": "Lucio Dalla",
+      "has_synced": false,
+      "path": "select/12_Kamikaze_Lucio_Dalla.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kamikaze",
+      "artist": "Lucio Dalla",
+      "has_synced": false,
+      "path": "select/13_Kamikaze_Lucio_Dalla.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kamikaze Rock'N'Roll Suicide",
+      "artist": "Donatella Rettore",
+      "has_synced": false,
+      "path": "select/14_Kamikaze_Rock'N'Roll_Suicide_Donatella_Rettore.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kamikaze Rock'n Roll Suicide",
+      "artist": "Donatella Rettore",
+      "has_synced": false,
+      "path": "select/15_Kamikaze_Rock'n_Roll_Suicide_Donatella_Rettore.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kamikaze Rock'n Roll Suicide",
+      "artist": "Rettore",
+      "has_synced": false,
+      "path": "select/16_Kamikaze_Rock'n_Roll_Suicide_Rettore.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KAMIKAZE",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_KAMIKAZE_Dannie_May.txt"
+    }
+  ]
+}
